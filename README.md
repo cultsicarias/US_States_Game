@@ -1,4 +1,4 @@
-# 🇺🇸 US States Guessing Game
+#US States Guessing Game
 
 A fun, interactive geography quiz built using **Python Turtle Graphics** and **Pandas**.  
 Your objective is to guess all **50 U.S. states**. Each correct guess appears on the map in its real location.
@@ -39,6 +39,7 @@ pip install pandas
 ```bash
 python main.py
 ```
+
 
 
 
